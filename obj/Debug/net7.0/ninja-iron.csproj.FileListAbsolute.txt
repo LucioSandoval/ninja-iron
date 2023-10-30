@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\bin\Debug\net7.0\ninja-iron.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\bin\Debug\net7.0\ninja-iron.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\bin\Debug\net7.0\ninja-iron.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\bin\Debug\net7.0\ninja-iron.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\bin\Debug\net7.0\ninja-iron.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\ninja-iron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\ninja-iron.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\ninja-iron.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\ninja-iron.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\ninja-iron.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\refint\ninja-iron.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\ninja-iron.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\ninja-iron.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-iron\obj\Debug\net7.0\ref\ninja-iron.dll
